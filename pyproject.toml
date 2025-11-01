@@ -15,7 +15,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = [
-    "sectools>=1.5.0",
+    "sectools>=1.5.1",
     "xlsxwriter",
     "urllib3==1.26.16",
     "requests==2.29.0",
