@@ -22,7 +22,7 @@ from apachetomcatscanner.utils.scan import (monitor_thread, scan_worker,
                                             scan_worker_url)
 from apachetomcatscanner.VulnerabilitiesDB import VulnerabilitiesDB
 
-VERSION = "3.7"
+VERSION = "3.8.2"
 
 banner = """Apache Tomcat Scanner v%s - by Remi GASCOU (Podalirius)\n""" % VERSION
 
